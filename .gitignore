@@ -1,0 +1,11 @@
+.DS_Store
+.idea/
+.ipynb_checkpoints/
+Dynamic_of_sales.png
+merge_file.csv
+report.pdf
+sales_by_cities.png
+dependency_ordered_price.png
+distribution_of_orders.png
+distribution_of_products.png
+distribution_states.png
