@@ -8,6 +8,7 @@
 ![pandas](https://img.shields.io/badge/pandas-1.4.0-violet?style=plastic&logo=pandas)
 ![numpy](https://img.shields.io/badge/numpy-1.19.0-yellow?style=plastic&logo=numpy)
 ![matplotlib](https://img.shields.io/badge/matplotlib-3.5.1.-purple?style=plastic&logo=numpy)
+![Black](https://img.shields.io/badge/code_style-black-black)
 
 This data analysis project consists from two parts. First part consists of
 procedures of transforming aggregating, and preparing data, second part consists of procedures of compiling
